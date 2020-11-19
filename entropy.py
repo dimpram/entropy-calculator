@@ -1,6 +1,11 @@
 import math
 import matplotlib.pyplot as plt
 
+# NEW COMMENT
+# NEW COMMENT
+# NEW COMMENT
+# NEW COMMENT
+# NEW COMMENT
 # Makes every character lowercase and removes spaces
 def format_text(text):
     edited_text = text.replace(" ", "").lower()
